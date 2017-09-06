@@ -20,6 +20,6 @@ as well as the study of mutable and immutable data types including:
 * Sets
 
 
-The course finished with the study of creating basic functions and working with objects created from custom classes.  Also, we briefly touched on Pandas and NumPy and how they are used in the feild of Data Science.
+The course finished with the study of creating basic functions and working with objects created from custom classes.  Also, we briefly touched on Pandas and NumPy and how they are used in the field of Data Science.
 
 The most extensive code I wrote involved creating a command line version of Tic Tac Toe.
